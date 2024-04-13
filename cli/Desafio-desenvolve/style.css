@@ -1,0 +1,42 @@
+Body {
+    color: black;
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.imagem {
+    text-align: center;
+}
+.books {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.nome {
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    text-align: center;
+}
+.container{
+    padding: 0px 50px;
+}
+nav a:hover {
+    color: pink;
+}
+main h3:hover {
+    color:pink
+}
+h1, h2 {
+    text-align: center;
+}
